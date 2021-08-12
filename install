@@ -33,7 +33,6 @@ exit 1
 fi
 sudo chmod +x tg
 lua OLIVER.lua
-sudo chmod +x OLIVER
-sudo chmod +x ./DRG
-./DRG
+lua OLIVER.lua
+
 fi
